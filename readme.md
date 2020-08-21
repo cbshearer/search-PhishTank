@@ -17,8 +17,6 @@ PS C:\temp> Import-Module .\search-PhishTank.psm1
     - Should be descriptive or you may be subject to rate limiting.
     - https://www.phishtank.com/api_info.php.
 
-## To use from CLI
-
 - Mandatory parameter:
   - -u: URL
 - Note: if URL does not begin with "http, then "http://" will be added
